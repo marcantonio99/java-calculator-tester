@@ -1,7 +1,7 @@
 package cms;
 
-public class Calculator {
 
+public class Calculator {
     //creo i metodi della calcolatrice
     public float add(float num1, float num2) {
         return num1 + num2;
